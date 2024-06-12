@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-27T14:34:34.941016600Z</date>
+  <millis>1698417274941</millis>
+  <nanos>16600</nanos>
+  <sequence>0</sequence>
+  <logger>logging.XMLLogger</logger>
+  <level>CONFIG</level>
+  <class>logging.XMLLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Pengaturan selesai</message>
+</record>
+<record>
+  <date>2023-10-27T14:34:35.183910100Z</date>
+  <millis>1698417275183</millis>
+  <nanos>910100</nanos>
+  <sequence>1</sequence>
+  <logger>logging.XMLLogger</logger>
+  <level>FINE</level>
+  <class>logging.XMLLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fine Log</message>
+</record>
+<record>
+  <date>2023-10-27T14:34:35.184908300Z</date>
+  <millis>1698417275184</millis>
+  <nanos>908300</nanos>
+  <sequence>2</sequence>
+  <logger>logging.XMLLogger</logger>
+  <level>FINER</level>
+  <class>logging.XMLLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer Log</message>
+</record>
+</log>
